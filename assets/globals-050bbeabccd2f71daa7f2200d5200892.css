@@ -1,0 +1,17 @@
+:root{--font-family-main:"Montserrat",sans-serif;--font-size-h1:1.5rem;--font-size-h1-S:1.05rem;--font-size-code:1.2rem;--font-size-h2:1rem;--font-size-h3:1rem;--font-size-h4:0.6rem;--font-size-ul:0.8rem;--font-size-p:0.8rem;--font-size-a:0.75rem;--font-weight-h1:700;--font-weight-h2:600;--font-weight-h3:500;--font-weight-h4:600;--font-weight-ul:600;--font-weight-p:600;--font-weight-a:400;--font-accent-color:rgb(243, 54, 54);--logo-max-width:10rem;--banner-width:80%;--banner-height:0.5rem;--banner-background:linear-gradient(45deg, black, red, black);--socialmedia-max-width:400px;--socialmedia-item-flex:1 1 50px;--socialmedia-item-image-max-width:2.5rem;--project-item-max-width:500px;--project-item-background:linear-gradient(
+    45deg,
+    rgb(252, 55, 55),
+    red,
+    black
+  );--project-item-background-gt-500:linear-gradient(
+    90deg,
+    black,
+    rgb(252, 55, 55),
+    red,
+    black
+  );--project-leftbar-flex:1 1 30%;--project-rightbar-flex:1 1 70%;--project-plus-icon-width:30px;--project-counter-font-size:1.5rem;--knowhow-accent-color:rgb(221, 41, 41);--skillcard-background-color:rgb(44, 44, 44);--gallery-border-color:rgb(255, 255, 255);--blog-item-max-width:300px;--blog-item-background:rgb(39, 39, 39);--blog-item-border-radius:0.5rem 0.5rem 0 0;--blog-item-text-shadow:1px 1px 3px white;--blog-item-span-height:5px;--blog-item-span-background:linear-gradient(
+    45deg,
+    rgb(39, 39, 39),
+    red,
+    rgb(39, 39, 39)
+  );--blog-item-filter-drop-shadow:drop-shadow(0px 0px 1rem rgb(226, 33, 33))}body::-webkit-scrollbar{width:auto}body::-webkit-scrollbar-track{background:inherit}body::-webkit-scrollbar-thumb{background-color:#f71f1f;border-radius:3rem}body::-webkit-scrollbar-thumb:hover{background-color:#d11c04}::-webkit-scrollbar-thumb{background:#c00c0c}::-webkit-scrollbar-thumb:hover{background:#555}*,::after,::before{box-sizing:border-box}blockquote,body,dd,dl,figure,h1,h2,h3,h4,p{margin:0}ol[role=list],ul[role=list]{list-style:none}html{scroll-behavior:smooth}html:focus-within{scroll-behavior:smooth}body{min-height:100vh;text-rendering:optimizeSpeed;line-height:1.5;background:#000}a:not([class]){text-decoration-skip-ink:auto}img,picture{max-width:100%;display:block}button,input,select,textarea{font:inherit}@media (prefers-reduced-motion:reduce){html:focus-within{scroll-behavior:auto}*,::after,::before{animation-duration:0s!important;animation-iteration-count:1!important;transition-duration:0s!important;scroll-behavior:auto!important}}
